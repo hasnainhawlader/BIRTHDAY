@@ -44,8 +44,8 @@ canvas#canvas {
 
 #video {
   position: absolute;
-  right: 243px;
-  bottom: 200px;
+  right: 350px;
+  bottom: 350px;
   background-image: url("./image/image1.jpg");
 }
 
